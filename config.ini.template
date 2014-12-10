@@ -1,0 +1,6 @@
+[Twitter]
+; This section is REQUIRED. All values are REQUIRED.
+consumer_key = 
+consumer_secret = 
+auth_access_key = 
+auth_access_secret = 
